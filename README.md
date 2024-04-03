@@ -8,7 +8,7 @@
 
 ## Work Experience
 **Senior Technician @ ITQB NOVA (Plant Functional Genomics Lab) (_July 2023 - Present_)**
-TRACE-RICE Project - Genomics analysis | Software development
+- TRACE-RICE Project - Genomics analysis | Software development
 
 ## Projects
 ### Increasing (ELIXIR Implementation Study)
