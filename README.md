@@ -1,12 +1,23 @@
 # Bioinformatician
 
-### Education
-Bioinformatics and Computational Biology, MSc
+#### Technical Skills: Python, R, Bash/Unix, Sphinx, GATK
 
-### Work Experience
-Senior Technician @ ITQB NOVA (Plant Functional Genomics Lab)
-- TRACE-RICE Project
+## Education
+- MSc., Bioinformatics and Computational Biology | Faculty of Sciences of University of Lisbon (_April 2023_)
+- Bs., Biology | Faculty of Sciences of University of Lisbon (_July 2020_)
 
-### Past Projects
-Increasing (ELIXIR Implementation Study)
-CorkREMODEL
+## Work Experience
+**Senior Technician @ ITQB NOVA (Plant Functional Genomics Lab) (_July 2023 - Present_)**
+TRACE-RICE Project - Genomics analysis | Software development
+
+## Projects
+### Increasing (ELIXIR Implementation Study)
+[Output](https://elixir.mf.uni-lj.si/course/view.php?id=107)
+
+Developed training materials and **R** scripts to navigate software bundles dedicated to plant sciences, with emphasis in plant data visualization and orthology analysis.
+
+### CorkREMODEL
+[pending publication]
+
+## Presentations
+- Identification of regulatory modules acting in the interaction between cork development and environmental variables - Bioinformatics Open Days, 2023
