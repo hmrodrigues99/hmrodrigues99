@@ -16,6 +16,8 @@ TRACE-RICE Project - Genomics analysis | Software development
 
 Developed training materials and **R** scripts to navigate software bundles dedicated to plant sciences, with emphasis in plant data visualization and orthology analysis.
 
+![Cork Oak Use Case](/assets/img/Usecase_page.PNG)
+
 ### CorkREMODEL
 [pending publication]
 
