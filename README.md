@@ -4,9 +4,9 @@
 Bioinformatics and Computational Biology, MSc
 
 ### Work Experience
-Senior Technician @ ITQB NOVA / Plant Functional Genomics Lab\n
-Research Fellow @ ITQB NOVA / Plant Functional Genomics Lab
+Senior Technician @ ITQB NOVA (Plant Functional Genomics Lab)
+- TRACE-RICE Project
 
-### Projects
-TRACE-RICE - European Project
-Increasing - ELIXIR Implementation Study
+### Past Projects
+Increasing (ELIXIR Implementation Study)
+CorkREMODEL
